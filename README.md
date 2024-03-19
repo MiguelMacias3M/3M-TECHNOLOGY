@@ -1,4 +1,4 @@
-# Azle Hello World
+# Azle 
 
 -   [Installation](#installation)
 -   [Deployment](#deployment)
